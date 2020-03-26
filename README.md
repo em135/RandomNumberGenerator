@@ -1,0 +1,3 @@
+# RandomNumberGenerator
+ 
+Exercise doing the Modeling and Simulation course at 7. semester. The python file generates random numbers using different parameters. These random numbers are tested for uniformity and independence with different tests. These tests fail to reject that the numbers are not uniform and independent for all RNGs. But plotting the numbers for the linear congruential generators in a 3D scatterplots shows clear dependencies between the numbers. 
